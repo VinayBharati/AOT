@@ -1,4 +1,3 @@
-# AOT
 # AOT: Anime On Top – Live Streaming App 🎥🔥
 
 A Full-Stack React Native MERN app for seamless anime streaming with real-time audience interaction. AOT: Anime On Top delivers an immersive experience with HLS-powered streaming, WebSocket-driven live chat & reactions, and a visually stunning UI.
