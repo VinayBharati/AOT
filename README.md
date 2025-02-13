@@ -1,15 +1,26 @@
 # AOT: Anime On Top – Live Streaming App 🎥🔥
 
-A Full-Stack React Native MERN app for seamless anime streaming with real-time audience interaction. AOT: Anime On Top delivers an immersive experience with HLS-powered streaming, WebSocket-driven live chat & reactions, and a visually stunning UI.
+AOT (Anime On Top) is a feature-rich, scalable live anime streaming application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project delivers an immersive user experience with dynamic content, advanced filtering, and robust user management, making it the ultimate platform for anime enthusiasts.
 
-## 🚀 Key Features:
+## 🚀 Highlights  
+- 🌟 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js) + Redux Toolkit + RTK Query  
+- 👥 **User Management:** Secure authentication and authorization using JWT.  
+- 🎬 **Movies Module:** Full CRUD operations for movies with image upload support.  
+- 🔥 **Advanced Filters:** Genre-based and multi-criteria filtering for seamless exploration.  
+- 📊 **Admin Dashboard:** Comprehensive dashboard for content management and analytics.  
+- 💬 **Comments Section:** Real-time user engagement through interactive comments.  
+- 🎨 **Immersive UI/UX:** Modern, responsive design crafted with Tailwind CSS.  
+- ⚡ **Performance & Scalability:** Optimized architecture to handle high traffic and dynamic content efficiently.  
 
-- 📺 **Live Anime Streaming** – Stream anime using **HLS** for smooth, high-quality playback.
-- 💬 **Live Chat & Reactions** – Engage viewers with **real-time comments & emoji reactions**.
-- ⚡ **Instant WebSocket Updates** – Enjoy ultra-low latency interactions for a live experience.
-- 🎭 **Next-Level UI Animations** – Stunning visuals for an immersive anime experience.
-- 🔔 **Push Notifications** – Get updates with **Expo notifications**.
-- 🔐 **Google Sign-In** – Secure and effortless authentication.
+---  
 
-## 🛠 Tech Stack:
-🗿 **Expo** | 🗿 **React Native** | 🗿 **Node.js** | 🗿 **MongoDB** | 🗿 **WebSockets** | 🗿 **React Native Video**
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Redux Toolkit, RTK Query  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Token)  
+- **State Management:** Redux Toolkit & RTK Query  
+- **Image Uploads:** Cloudinary integration  
+- **Deployment:** Configured for scalable hosting solutions  
+
+Embark on your journey to **MERN Mastery** with AOT! Feel free to explore, contribute, or raise issues. Happy coding! 🚀
